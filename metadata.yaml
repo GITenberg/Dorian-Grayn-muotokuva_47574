@@ -1,0 +1,45 @@
+_repo: Dorian-Grayn-muotokuva_47574
+alternative_title: The picture of Dorian Gray. Finnish
+contributor:
+  translator:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Setälä, Helmi
+    - Helmi Setälä
+    - Setala, Helmi
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+description: ''
+gutenberg_issued: '2014-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47574'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Didactic fiction'
+- !lcc 'PR'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901 -- Fiction'
+- !lcsh 'Appearance (Philosophy) -- Fiction'
+- !lcsh 'Portraits -- Fiction'
+- !lcsh 'London (England) -- History -- 1800-1950 -- Fiction'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Supernatural -- Fiction'
+title: Dorian Grayn muotokuva
+url: http://www.gutenberg.org/ebooks/47574
